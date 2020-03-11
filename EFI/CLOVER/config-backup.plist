@@ -247,20 +247,6 @@
 					SERBVQ==
 					</data>
 				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Rename XHC1 to XHC (USB)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					WEhDMQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					WEhDXw==
-					</data>
-				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
